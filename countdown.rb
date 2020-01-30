@@ -1,5 +1,5 @@
 def countdown(seconds_to_midnight) 
-  while seconds_to_midnight < 0
+  while seconds_to_midnight > 0
     puts "#{number} SECOND(S)!"
     countdown -= 1
   end
