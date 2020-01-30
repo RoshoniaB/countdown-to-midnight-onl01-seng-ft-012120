@@ -4,5 +4,7 @@ def countdown = 10
     countdown -= 1
   end
 end
-def countdown_with_sleep
-  sleep(1.second)
+
+def countdown_with_sleep = 5
+  sleep(1.seconds)
+end  
