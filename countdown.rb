@@ -4,5 +4,5 @@ def countdown = "HAPPY NEW YEAR!"
     countdown -= 1
   end
 end
-
-sleep(1.second)
+def countdown_with_sleep
+  sleep(1.second)
