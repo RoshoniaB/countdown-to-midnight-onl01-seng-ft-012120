@@ -1,4 +1,5 @@
-#write your code here
+
 
 def countdown
 end
+sleep(1.seconds)
