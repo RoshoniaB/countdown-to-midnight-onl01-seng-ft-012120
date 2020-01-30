@@ -1,4 +1,4 @@
-def countdown = 10
+def countdown(seconds_to_midnight) 
   while countdown < 12
     puts "#{number} SECOND(S)!"
     countdown -= 1
