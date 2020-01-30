@@ -1,5 +1,5 @@
+while 
 
-
-def countdown
+def countdown = 
 end
-sleep(1.seconds)
+sleep(1.second)
